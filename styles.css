@@ -2,6 +2,7 @@ body{
     background-color: bisque;
     color: rgb(153, 47, 47);
     background-image:url(background-img.jpg);
+    background-attachment: fixed;
 }
 
 section{
@@ -20,9 +21,11 @@ section{
 #logo{
     text-align: center;  
 }
+
 img{
     border: 2px solid rgb(244, 226, 145);
 }
+
 button{
     background-color: #fff0a5;
     border: 2px solid rgb(244, 226, 145);
@@ -30,6 +33,7 @@ button{
   padding: 10px 10px 8px 8px;
 
 }
+
 a{
     color: rgb(228, 148, 45);
 }
